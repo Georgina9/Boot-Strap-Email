@@ -125,8 +125,8 @@
                 <div class="mail-list">
                   <div class="form-check"> <label class="form-check-label"> <input type="checkbox" class="form-check-input"> <i class="input-helper"></i></label></div>
                   <div class="content">
-                    <p class="sender-name">Bruno King</p>
-                    <p class="message_text">Hi, Please find this week’s monitoring report in the attachment.</p>
+                    <p class="sender-name">Bruno Mars</p>
+                    <p class="message_text">Checkout Bruno Mars in concert in Oakland.</p>
                   </div>
                   <div class="details">
                     <i class="mdi mdi-star-outline"></i>
@@ -242,3 +242,4 @@
           </div>
         </div>
     </div>
+    
